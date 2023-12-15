@@ -1,5 +1,7 @@
+[![MasterHead](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm İdris</h1>
 <h3 align="center">A passionate Computer programmer and engineer from Turkey</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at [https://idrissakgull.me/](https://idrissakgull.me/)
 
