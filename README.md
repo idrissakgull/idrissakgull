@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer programmer and engineer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 All of my projects are available at [https://idrissakgull.me/](https://idrissakgull.me/)
+- 👨‍💻 All of my projects are available at [https://akgulidris.me/](https://akgulidris.me/)
 
 - 📫 How to reach me **idrissakgull@gmail.com**
 
